@@ -1,0 +1,25 @@
+{
+  "name": "axios-demock",
+  "version": "0.0.0",
+  "description": "",
+  "main": "axios-demock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demockjs/axios-demock.git"
+  },
+  "keywords": [
+    "demock",
+    "axios",
+    "http",
+    "mock"
+  ],
+  "author": "Ates Goral <ates@magnetiq.com> (http://magnetiq.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demockjs/axios-demock/issues"
+  },
+  "homepage": "https://github.com/demockjs/axios-demock#readme"
+}
